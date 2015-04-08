@@ -1,9 +1,6 @@
 /* 
 * Date: 24 September 2013
 * Programmer: Joshua Honeycutt
-* Name: QueueLine
-* Professor: DDanny Jugan
-* Class: ITCS 2214-002
 * Program: Write a Program That Creates A Queue and Uses The Customer Class
 */
 
