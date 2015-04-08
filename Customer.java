@@ -1,7 +1,5 @@
 /*
 	Program: CustomerQueue ~ Customer Class
-	Professor: D. Jugan
-	Date:
 	Summary: Creates a Customer object to be used in the line queue. Holds the serviceTime for each customer. 
 	Functionality: 
 		Constructor: Random ServiceTime (1-5)
